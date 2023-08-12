@@ -1,5 +1,5 @@
-valorUno = input("Ingresa el primer valor el cual quieras sumar")
-valorDos = input("Ingresa el segundo valor el cual quieras sumar con el primero")
+valorUno = int(input("Ingresa el primer valor el cual quieras sumar"))
+valorDos = int(input("Ingresa el segundo valor el cual quieras sumar con el primero"))
 
 valorTotal = valorUno + valorDos
 
